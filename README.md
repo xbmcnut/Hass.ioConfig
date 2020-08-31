@@ -59,18 +59,18 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * Terminal & SSH
 ### HACS
 #### Frontend
-* [Alexa Media Player]()
-* [Attributes]()
-* [browser_mod]()
-* [HACS]()
-* [SmartIR]()
+* [Alexa Media Player](https://github.com/custom-components/alexa_media_player)
+* [Attributes](https://github.com/pilotak/homeassistant-attributes)
+* [browser_mod](https://github.com/thomasloven/hass-browser_mod)
+* [HACS](https://github.com/hacs/integration)
+* [SmartIR](https://github.com/smartHomeHub/SmartIR)
 #### Integrations
 * [Bar Card](https://github.com/custom-cards/bar-card)
-* [button-card]()
-* [Canvas Gauge Card]()
-* [card-mod]()
-* [card-tools]()
-* [Custom Header]()
-* [Flexible Horseshoe Card for Lovelace]()
-* [Mini Graph Card]()
-* [Search Card]()
+* [button-card](https://github.com/custom-cards/button-card)
+* [Canvas Gauge Card](https://github.com/custom-cards/canvas-gauge-card)
+* [card-mod](https://github.com/thomasloven/lovelace-card-mod)
+* [card-tools](https://github.com/thomasloven/lovelace-card-tools)
+* [Custom Header](https://github.com/maykar/custom-header) Must have!
+* [Flexible Horseshoe Card for Lovelace](https://github.com/AmoebeLabs/flex-horseshoe-card)
+* [Mini Graph Card](https://github.com/kalkih/mini-graph-card)
+* [Search Card](https://github.com/postlund/search-card)
