@@ -70,7 +70,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * [Canvas Gauge Card](https://github.com/custom-cards/canvas-gauge-card)
 * [card-mod](https://github.com/thomasloven/lovelace-card-mod)
 * [card-tools](https://github.com/thomasloven/lovelace-card-tools)
-* [Custom Header](https://github.com/maykar/custom-header) ###Must have!
+* [Custom Header](https://github.com/maykar/custom-header) **Must have!**
 * [Flexible Horseshoe Card for Lovelace](https://github.com/AmoebeLabs/flex-horseshoe-card)
 * [Mini Graph Card](https://github.com/kalkih/mini-graph-card)
 * [Search Card](https://github.com/postlund/search-card)
