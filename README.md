@@ -8,7 +8,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 #### Gadgets
 * Shelly1, Shelly PM1, Shelly 2.5, Shelly Dimmer, ShellyEM, Shelly Door/Window sensor (x1)
 * Sonoff, Sonoff POW, Sonoff Dual, Sonoff Bridge, Sonoff SV all running Tasmota
-* Xiaomi Temperature and Hunmidity Sensors
+* Xiaomi Temperature and Humidity Sensors
 * Xiaomi Motion Detectors
 * Xiaomi Door and Windors Sensors (integrated into IP65 boxes)
 * Xiaomi Gateway
