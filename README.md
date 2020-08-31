@@ -35,8 +35,6 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 1 x Synology RS814+ NAS (Docker: MQTT, TasmoAdmin, UniFi Controller and AdGuard)
 * 1 x rPi3 running a 2nd AdGuard server as a [Ubuntu Appliance](https://ubuntu.com/appliance/adguard). Also running a backup MQTT broker
 ### Integrations
-### Docker Containers
-### Add-ons
 * Alexa Media Player
 * deCONZ
 * Google Cast
@@ -51,4 +49,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * Synology DSM
 * Xiaomi Gateway (Aqara)
 * Z-Wave
+### Docker Containers
+### Add-ons
+
 ### HACS
