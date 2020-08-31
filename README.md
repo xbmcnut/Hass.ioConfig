@@ -51,5 +51,11 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * Z-Wave
 ### Docker Containers
 ### Add-ons
-
+* deCONZ
+* Hass.io Google Drive Backup
+* MariaDB
+* phpMyAdmin
+* Samba share
+* TasmoBackup
+* Terminal & SSH
 ### HACS
