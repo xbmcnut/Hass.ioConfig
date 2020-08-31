@@ -33,7 +33,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 1 x UniFi AC-Pro AP
 * 1 x UniFi USG 
 * 1 x Synology RS814+ NAS (Docker: MQTT, TasmoAdmin, UniFi Controller and AdGuard)
-* 1 x rPi3 running a 2nd AdGuard server as a [Ubuntu Appliance](https://ubuntu.com/appliance/adguard)
+* 1 x rPi3 running a 2nd AdGuard server as a [Ubuntu Appliance](https://ubuntu.com/appliance/adguard). Also running a backup MQTT broker
 ### Integrations
 ### Docker Containers
 ### Add-ons
