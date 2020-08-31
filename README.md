@@ -10,7 +10,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * Sonoff, Sonoff POW, Sonoff Dual, Sonoff Bridge, Sonoff SV all running Tasmota
 * Xiaomi Temperature and Humidity Sensors
 * Xiaomi Motion Detectors
-* Xiaomi Door and Windors Sensors (integrated into IP65 boxes)
+* Xiaomi Door and Window Sensors (integrated into IP65 boxes)
 * Xiaomi Gateway
 * Xiaomi buttons (Gen1 and Gen2)
 * Xiaomi wireless light switches
