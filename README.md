@@ -58,6 +58,9 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * TasmoBackup
 * Terminal & SSH
 ### HACS
+#### Frontend
+* HACS
+#### Integrations
 * [Bar Card](https://github.com/custom-cards/bar-card)
 * button-card
 * Canvas Gauge Card
