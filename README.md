@@ -59,14 +59,18 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * Terminal & SSH
 ### HACS
 #### Frontend
-* HACS
+* [Alexa Media Player]()
+* [Attributes]()
+* [browser_mod]()
+* [HACS]()
+* [SmartIR]()
 #### Integrations
 * [Bar Card](https://github.com/custom-cards/bar-card)
-* button-card
-* Canvas Gauge Card
-* card-mod
-* card-tools
-* Custom Header
-* Flexible Horseshoe Card for Lovelace
-* Mini Graph Card
-* Search Card
+* [button-card]()
+* [Canvas Gauge Card]()
+* [card-mod]()
+* [card-tools]()
+* [Custom Header]()
+* [Flexible Horseshoe Card for Lovelace]()
+* [Mini Graph Card]()
+* [Search Card]()
