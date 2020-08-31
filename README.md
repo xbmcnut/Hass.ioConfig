@@ -14,6 +14,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * Xiaomi Gateway
 * Xiaomi buttons (Gen1 and Gen2)
 * Xiaomi wireless light switches
+* Desden Conbee II Zigbee Gateway (currently running with deCONZ add-on)
 ### Integrations
 ### Docker Containers
 ### Add-ons
