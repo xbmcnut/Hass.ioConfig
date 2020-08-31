@@ -37,4 +37,18 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 ### Integrations
 ### Docker Containers
 ### Add-ons
+* Alexa Media Player
+* deCONZ
+* Google Cast
+* HACS
+* HomeKit Bridge
+* Logitech Harmony Hub
+* Mobile App
+* MQTT
+* Samsung Smart TV
+* Sony Bravia TV
+* Sony Songpal
+* Synology DSM
+* Xiaomi Gateway (Aqara)
+* Z-Wave
 ### HACS
