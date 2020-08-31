@@ -49,7 +49,6 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * Synology DSM
 * Xiaomi Gateway (Aqara)
 * Z-Wave
-### Docker Containers
 ### Add-ons
 * deCONZ
 * Hass.io Google Drive Backup
