@@ -25,6 +25,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 1 x Xiaomi wireless light switch
 * 1 x Dresden Conbee II Zigbee Gateway (currently running with deCONZ add-on)
 * 1 x Harmony Hub
+* 1 x Samsung Galaxy TabA 10.1 running Fully Kiosk Browswer. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
 
 #### Streaming
 * 3 x Echo Dot  
