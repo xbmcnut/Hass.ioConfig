@@ -24,6 +24,8 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 3 x Xiaomi buttons (Gen1 and Gen2)
 * 1 x Xiaomi wireless light switch
 * 1 x Dresden Conbee II Zigbee Gateway (currently running with deCONZ add-on)
+* 1 x Aeon Labs Z-Wave stick
+* 5 x Z-Wave in-wall switch modules
 * 1 x Harmony Hub
 * 1 x Samsung Galaxy Tab A 10.1 running Fully Kiosk Browser. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
 
