@@ -1,7 +1,7 @@
 # xbmcnut's Home Assistant configuration
 ### For now, until I can figure out how to get my entire config into Github safely and securely, some of my config files can be accessed through my [Wiki](https://github.com/xbmcnut/Hass.ioConfig/wiki "Pete's Wiki") along with some Home Assistant tips and tricks. 
 ### Want to get more info?
-<a href="https://twitter.com/xbmcnut?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @xbmcnut</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/xbmcnut?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @xbmcnut</a>
 ### Hardware
 My Home Assistant installation now resides on an Intel NUC i5 with 16GB RAM and a 256GB nVME SSD (overkill!). This is more reliable than using any device that leverages a SD Card (in my opinion). If you are using an SD card, I highly encourage as your very first integration to add the excellent [Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup "Hass.io Google Drive Backup Add-on") for your installation files and set this to backup every day.
 
