@@ -18,6 +18,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x Sonoff Dual
 * 1 x Sonoff TH10 with temp probe
 * 1 x Sonoff RF Bridge (all running Tasmota)
+* 1 x [OpenGarage](https://opengarage.io/) controller with Ultrasonic 'car-in-garage' detection
 * 4 x Xiaomi Temperature and Humidity Sensors
 * 5 x Xiaomi Motion Detectors
 * 6 x Xiaomi Door and Window Sensors (integrated into IP65 boxes)
