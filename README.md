@@ -27,7 +27,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 1 x Xiaomi wireless light switch
 * 1 x Dresden Conbee II Zigbee Gateway (currently running with deCONZ add-on)
 * 1 x Aeon Labs Z-Wave stick
-* 2 x Aeon Labs MultiSensor 6
+* 2 x [Aeon Labs MultiSensor 6](https://amzn.to/3hWqjEg)
 * 5 x Z-Wave in-wall switch modules
 * 1 x [Yale Security Assure Lock with Z-Wave](https://amzn.to/2YVRDe1)
 * 1 x Harmony Hub
