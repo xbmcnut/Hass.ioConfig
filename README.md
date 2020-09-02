@@ -23,7 +23,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x [OpenGarage](https://opengarage.io/) controller with Ultrasonic 'car-in-garage' detection
 * 4 x Xiaomi Temperature and Humidity Sensors
 * 5 x Xiaomi Motion Detectors
-* 6 x Xiaomi Door and Window Sensors (integrated into IP65 boxes)
+* 6 x Xiaomi Door and Window Sensors (integrated into IP65 boxes). Video [**here**](https://www.youtube.com/watch?v=eTgC9VP7Di8)
 * 6 x Xiaomi Zigbee Smart Plugs with power monitoring (Soldering iron, Espresso machine, TV Cabinet, Office power...)
 * 1 x Xiaomi Gateway
 * 3 x Xiaomi buttons (Gen1 and Gen2) for running scenes
