@@ -20,6 +20,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 4 x Xiaomi Temperature and Humidity Sensors
 * 5 x Xiaomi Motion Detectors
 * 6 x Xiaomi Door and Window Sensors (integrated into IP65 boxes)
+* 6 x Xiaomi Zigbee Smart Plugs with power monitoring (Soldering iron, Espresso machine, TV Cabinet, Office power etc.)
 * 1 x Xiaomi Gateway
 * 3 x Xiaomi buttons (Gen1 and Gen2)
 * 1 x Xiaomi wireless light switch
