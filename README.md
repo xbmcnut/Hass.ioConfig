@@ -34,7 +34,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 1 x [Samsung Galaxy Tab A 10.1](https://amzn.to/3lBp9jL) running Fully Kiosk Browser. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
 
 #### Streaming
-* 3 x Echo Dot  
+* 3 x [Echo Dot](https://amzn.to/31MuQTQ)
 * 3 x Google Home  
 * 4 x Google Home Mini  
 * 3 x Chromecast  
