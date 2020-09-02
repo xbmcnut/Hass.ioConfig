@@ -57,7 +57,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x UniFi USG 
 * 1 x [Synology RS814+](https://amzn.to/34Swp4I) NAS (Docker: MQTT, TasmoAdmin, UniFi Controller and AdGuard)
 * 1 x RPi3 running a 2nd AdGuard server as a [Ubuntu Appliance](https://ubuntu.com/appliance/adguard). Also running a backup MQTT broker
-* 1 x Smart-UPS X 1500 with Network Management Card 2
+* 1 x [Smart-UPS X 1500](https://amzn.to/2GkrHm6) with Network Management Card 2
 ### Integrations
 * Alexa Media Player
 * deCONZ
