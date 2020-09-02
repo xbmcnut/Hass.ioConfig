@@ -42,12 +42,12 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 1 x Android TV with [PiPup](https://play.google.com/store/apps/details?id=nl.rogro82.pipup&hl=en) installed which allows HA to send it messages and other content
 
 #### Network
-* 1 x [UniFi 24-port Gen2 PoE switch](https://amzn.to/2QLY7Ig)
+* 1 x [UniFi 24-port Gen2 PoE switch](https://amzn.to/2QLY7Ig) * 1 x [UniFi 24-port Gen2 PoE switch](https://amzn.to/2QLY7Ig)
 * 1 x UniFi 24-port switch  
 * 1 x UniFi 8-port PoE switch  
 * 1 x UniFi 8-port switch  
 * 2 x UniFi AC-Lite AP  
-* 1 x UniFi AC-Pro AP
+* 1 x [UniFi AC-Pro AP](https://amzn.to/2ELV7sI)
 * 1 x UniFi USG 
 * 1 x [Synology RS814+](https://amzn.to/34Swp4I) NAS (Docker: MQTT, TasmoAdmin, UniFi Controller and AdGuard)
 * 1 x rPi3 running a 2nd AdGuard server as a [Ubuntu Appliance](https://ubuntu.com/appliance/adguard). Also running a backup MQTT broker
