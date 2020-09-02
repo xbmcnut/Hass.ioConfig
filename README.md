@@ -25,7 +25,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 5 x Xiaomi Motion Detectors
 * 6 x Xiaomi Door and Window Sensors (integrated into IP65 boxes). Video [**here**](https://www.youtube.com/watch?v=eTgC9VP7Di8)
 * 6 x Xiaomi Zigbee Smart Plugs with power monitoring (Soldering iron, Espresso machine, TV Cabinet, Office power...)
-* 1 x Xiaomi Gateway
+* 1 x Xiaomi Gateway used for doorbell, fire siren and nightlight
 * 3 x Xiaomi buttons (Gen1 and Gen2) for running scenes
 * 1 x Xiaomi wireless light switch
 * 2 x Xiaomi Plant Sensors connected to:
@@ -37,7 +37,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x [Yale Security Assure Lock with Z-Wave](https://amzn.to/2YVRDe1)
 * 1 x [Harmony Hub](https://amzn.to/2GlEQvd)
 * 2 x Broadlink universal IR+RF remote control
-* 1 x [QuinLED-Dig-Uno](https://quinled.info/2020/02/11/quinled-dig-uno-pre-assembled-available/) running [WLED](https://github.com/Aircoookie/WLED) connected to 12V Adressable LED's behind the Tele
+* 1 x [QuinLED-Dig-Uno](https://quinled.info/2020/02/11/quinled-dig-uno-pre-assembled-available/) running [WLED](https://github.com/Aircoookie/WLED) connected to 12V Addressable LED's behind the Tele
 * 1 x [Samsung Galaxy Tab A 10.1](https://amzn.to/3lBp9jL) running Fully Kiosk Browser. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
 #### Power Monitoring
 * 1 x [Eastron SDM-220](https://s.click.aliexpress.com/e/_dVaddXe) DIN Rail MODBUS whole-house power monitoring module
@@ -48,7 +48,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 4 x Google Home Mini  
 * 3 x Chromecast  
 * 4 x Chromecast Audio
-* 1 x Odroid N2 runing Kodi (CoreELEC) and Hyperion
+* 1 x Odroid N2 running Kodi (CoreELEC) and Hyperion
 * 1 x Android TV with [PiPup](https://play.google.com/store/apps/details?id=nl.rogro82.pipup&hl=en) installed which allows HA to send it messages and other content
 #### Security
 * 1 x DSC 16-zone alarm panel with [Envisalink](https://amzn.to/2EZTckk) Ethernet interface for connection to HA
