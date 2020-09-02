@@ -7,7 +7,7 @@ My Home Assistant installation now resides on an Intel NUC i5 with 16GB RAM and 
 
 My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Synology NAS in a docker container along with a few other IoT components.
 #### Gadgets
-* 9 x Shelly1
+* 9 x [Shelly](https://amzn.to/3jwq2ba)1
 * 5 x Shelly PM1
 * 1 x Shelly 2.5
 * 2 x Shelly Dimmer
