@@ -40,7 +40,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x [Samsung Galaxy Tab A 10.1](https://amzn.to/3lBp9jL) running Fully Kiosk Browser. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
 #### Power Monitoring
 * 1 x [Eastron SDM-220](https://s.click.aliexpress.com/e/_dVaddXe) DIN Rail MODBUS whole-house power monitoring module
-* 1 x [USR-TCP232-410S](https://amzn.to/2YWPnUa) MODBUS to Ethernet converter for [connection to HA](https://www.home-assistant.io/integrations/envisalink/)
+* 1 x [USR-TCP232-410S](https://amzn.to/2YWPnUa) MODBUS to Ethernet converter for [connection to HA](https://www.home-assistant.io/integrations/modbus/)
 #### Streaming
 * 3 x [Echo Dot](https://amzn.to/31MuQTQ)
 * 3 x Google Home  
@@ -51,7 +51,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x Android TV with [PiPup](https://play.google.com/store/apps/details?id=nl.rogro82.pipup&hl=en) installed which allows HA to send it messages and other content
 * 1 x [Logitech Harmony Companion All in One Remote Control for Smart Home](https://amzn.to/2GlEQvd)
 #### Security
-* 1 x DSC 16-zone alarm panel with [Envisalink](https://amzn.to/2EZTckk) Ethernet interface for connection to HA
+* 1 x DSC 16-zone alarm panel with [Envisalink](https://amzn.to/2EZTckk) Ethernet interface for [connection to HA](https://www.home-assistant.io/integrations/envisalink/)
 * 2 x Hikvsion G-Series 5MP H.265 Outdoor Dome Cameras integrated using [Hikvision](https://www.home-assistant.io/integrations/hikvision/) component
 * 1 x Dahua SD22204T-GN Outdoor PTZ (integrated using [Amcrest](https://www.home-assistant.io/integrations/amcrest/) component)
 * 3 x Dahua HDBW4431R-AS H.265 4MP IP Dome Cameras
