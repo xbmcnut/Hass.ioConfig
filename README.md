@@ -42,7 +42,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 1 x Android TV with [PiPup](https://play.google.com/store/apps/details?id=nl.rogro82.pipup&hl=en) installed which allows HA to send it messages and other content
 
 #### Network
-* 1 x [UniFi 24-port Gen2 PoE switch](https://amzn.to/2QLY7Ig) * 1 x [UniFi 24-port Gen2 PoE switch](https://amzn.to/2QLY7Ig)
+* 1 x [UniFi 24-port Gen2 PoE switch](https://amzn.to/2QLY7Ig)
 * 1 x UniFi 24-port switch  
 * 1 x UniFi 8-port PoE switch  
 * 1 x UniFi 8-port switch  
