@@ -16,6 +16,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 4 x Sonoff
 * 5 x Sonoff POW
 * 1 x Sonoff Dual
+* 1 x Sonoff TH10 with temp probe
 * 1 x Sonoff RF Bridge (all running Tasmota)
 * 4 x Xiaomi Temperature and Humidity Sensors
 * 5 x Xiaomi Motion Detectors
