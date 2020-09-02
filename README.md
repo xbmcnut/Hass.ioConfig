@@ -35,7 +35,6 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 2 x [Aeon Labs MultiSensor 6](https://amzn.to/3hWqjEg)
 * 5 x Z-Wave in-wall switch modules
 * 1 x [Yale Security Assure Lock with Z-Wave](https://amzn.to/2YVRDe1)
-* 1 x [Harmony Hub](https://amzn.to/2GlEQvd)
 * 2 x Broadlink universal IR+RF remote control
 * 1 x [QuinLED-Dig-Uno](https://quinled.info/2020/02/11/quinled-dig-uno-pre-assembled-available/) running [WLED](https://github.com/Aircoookie/WLED) connected to 12V Addressable LED's behind the Tele
 * 1 x [Samsung Galaxy Tab A 10.1](https://amzn.to/3lBp9jL) running Fully Kiosk Browser. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
@@ -50,6 +49,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 4 x Chromecast Audio
 * 1 x Odroid N2 running Kodi (CoreELEC) and Hyperion
 * 1 x Android TV with [PiPup](https://play.google.com/store/apps/details?id=nl.rogro82.pipup&hl=en) installed which allows HA to send it messages and other content
+* 1 x [Logitech Harmony Companion All in One Remote Control for Smart Home](https://amzn.to/2GlEQvd)
 #### Security
 * 1 x DSC 16-zone alarm panel with [Envisalink](https://amzn.to/2EZTckk) Ethernet interface for connection to HA
 * 2 x Hikvsion G-Series 5MP H.265 Outdoor Dome Cameras integrated using [Hikvision](https://www.home-assistant.io/integrations/hikvision/) component
