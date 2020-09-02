@@ -1,7 +1,7 @@
 # xbmcnut's Home Assistant configuration
 ### For now, until I can figure out how to get my entire config into Github safely and securely, some of my config files can be accessed through my [Wiki](https://github.com/xbmcnut/Hass.ioConfig/wiki "Pete's Wiki") along with some Home Assistant tips and tricks. 
 ### Want to get more info?
-<a href="https://twitter.com/xbmcnut?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @xbmcnut</a> on Twitter, check out [xbmcnut on YouTube](https://www.youtube.com/petestothers) or if you want some specific code mentioned in the Home Assistant podcast in Sept 2020, DM me on Twitter or log an [issue](https://github.com/xbmcnut/Hass.ioConfig/issues/new/choose) here and I'll do my best to follow up.
+<a href="https://twitter.com/xbmcnut?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @xbmcnut</a> on Twitter, check out [xbmcnut on YouTube](https://www.youtube.com/petestothers) or if you want some specific code mentioned in the [Home Assistant podcast](https://hasspodcast.io/) in Sept 2020, DM me on Twitter or log an [issue](https://github.com/xbmcnut/Hass.ioConfig/issues/new/choose) here and I'll do my best to follow up.
 ### Hardware
 My Home Assistant installation now resides on an [Intel NUC i5](https://amzn.to/2EXNOxO) with 16GB RAM and a [256GB nVME SSD](https://amzn.to/3gKl7Sk) (overkill!). This is more reliable than using any device that leverages a SD Card (in my opinion). If you are using a SD card, I highly encourage as your very first integration to add the excellent [Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup "Hass.io Google Drive Backup Add-on") for your installation files and set this to backup every day.
 
