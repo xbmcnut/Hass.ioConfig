@@ -25,12 +25,16 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x Xiaomi Gateway
 * 3 x Xiaomi buttons (Gen1 and Gen2)
 * 1 x Xiaomi wireless light switch
+* 2 x Xiaomi Plant Sensors connected to:
+* 1 x RPi Zero running [plantgateway](https://github.com/ChristianKuehnel/plantgateway) and [igrill-hassio](https://github.com/WilliamAlexanderMorrison/igrill-hassio)
 * 1 x [Dresden Conbee II Zigbee Gateway](https://amzn.to/3jAXMUV) (currently running with deCONZ add-on)
 * 1 x [Aeon Labs Z-Wave stick](https://amzn.to/3bipmDp)
 * 2 x [Aeon Labs MultiSensor 6](https://amzn.to/3hWqjEg)
 * 5 x Z-Wave in-wall switch modules
 * 1 x [Yale Security Assure Lock with Z-Wave](https://amzn.to/2YVRDe1)
 * 1 x [Harmony Hub](https://amzn.to/2GlEQvd)
+* 2 x Broadlink universal IR+RF remote control
+
 * 1 x [Samsung Galaxy Tab A 10.1](https://amzn.to/3lBp9jL) running Fully Kiosk Browser. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
 
 #### Streaming
@@ -51,6 +55,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x UniFi USG 
 * 1 x [Synology RS814+](https://amzn.to/34Swp4I) NAS (Docker: MQTT, TasmoAdmin, UniFi Controller and AdGuard)
 * 1 x rPi3 running a 2nd AdGuard server as a [Ubuntu Appliance](https://ubuntu.com/appliance/adguard). Also running a backup MQTT broker
+* 1 x Smart-UPS X 1500 with Network Management Card 2
 ### Integrations
 * Alexa Media Player
 * deCONZ
