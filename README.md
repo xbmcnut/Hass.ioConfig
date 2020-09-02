@@ -5,7 +5,7 @@
 ### Hardware
 My Home Assistant installation now resides on an [Intel NUC i5](https://amzn.to/2EXNOxO) with 16GB RAM and a [256GB nVME SSD](https://amzn.to/3gKl7Sk) (overkill!). This is more reliable than using any device that leverages a SD Card (in my opinion). If you are using a SD card, I highly encourage as your very first integration to add the excellent [Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup "Hass.io Google Drive Backup Add-on") for your installation files and set this to backup every day.
 
-My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Synology NAS in a docker container along with a few other IoT components.
+My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [Synology NAS](https://amzn.to/34Swp4I) in a docker container along with a few other IoT components.
 #### Gadgets
 * 9 x [Shelly](https://amzn.to/3jwq2ba)1
 * 5 x Shelly PM1
