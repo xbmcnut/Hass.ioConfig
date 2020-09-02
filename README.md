@@ -13,6 +13,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 2 x Shelly Dimmer
 * 2 x ShellyEM
 * 1 x Shelly Door/Window sensor
+* 1 x [Smart Dimmer Switch by Martin Jerry](https://amzn.to/34TD26H) running custom Tasmota firmware by [digiblur](https://github.com/digiblur/Tasmota/tree/development/bins)
 * 4 x Sonoff
 * 5 x Sonoff POW
 * 1 x Sonoff Dual
