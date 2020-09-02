@@ -55,6 +55,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 2 x Hikvsion G-Series 5MP H.265 Outdoor Dome Cameras integrated using [Hikvision](https://www.home-assistant.io/integrations/hikvision/) component
 * 1 x Dahua SD22204T-GN Outdoor PTZ (integrated using [Amcrest](https://www.home-assistant.io/integrations/amcrest/) component)
 * 3 x Dahua HDBW4431R-AS H.265 4MP IP Dome Cameras
+* 1 x Synology Surveillance Station (running on RS814+) and integrated into HA using [SS integration](https://www.home-assistant.io/integrations/synology/)
 
 #### Network
 * 1 x [UniFi 24-port Gen2 PoE switch](https://amzn.to/2QLY7Ig)
