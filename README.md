@@ -34,7 +34,6 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x [Yale Security Assure Lock with Z-Wave](https://amzn.to/2YVRDe1)
 * 1 x [Harmony Hub](https://amzn.to/2GlEQvd)
 * 2 x Broadlink universal IR+RF remote control
-
 * 1 x [Samsung Galaxy Tab A 10.1](https://amzn.to/3lBp9jL) running Fully Kiosk Browser. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
 
 #### Streaming
