@@ -25,7 +25,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 6 x Xiaomi Door and Window Sensors (integrated into IP65 boxes)
 * 6 x Xiaomi Zigbee Smart Plugs with power monitoring (Soldering iron, Espresso machine, TV Cabinet, Office power...)
 * 1 x Xiaomi Gateway
-* 3 x Xiaomi buttons (Gen1 and Gen2)
+* 3 x Xiaomi buttons (Gen1 and Gen2) for running scenes
 * 1 x Xiaomi wireless light switch
 * 2 x Xiaomi Plant Sensors connected to:
 * 1 x RPi Zero running [plantgateway](https://github.com/ChristianKuehnel/plantgateway) and [igrill-hassio](https://github.com/WilliamAlexanderMorrison/igrill-hassio)
