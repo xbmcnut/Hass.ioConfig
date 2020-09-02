@@ -38,7 +38,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * 1 x [Samsung Galaxy Tab A 10.1](https://amzn.to/3lBp9jL) running Fully Kiosk Browser. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
 #### Power Monitoring
 * 1 x [Eastron SDM-220](https://s.click.aliexpress.com/e/_dVaddXe) DIN Rail MODBUS whole house power monitoring module
-* 1 x USR-TCP232-410S](https://amzn.to/2YWPnUa) MODBUS to Ethernet converter for connection to HA
+* 1 x [USR-TCP232-410S](https://amzn.to/2YWPnUa) MODBUS to Ethernet converter for connection to HA
 #### Streaming
 * 3 x [Echo Dot](https://amzn.to/31MuQTQ)
 * 3 x Google Home  
