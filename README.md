@@ -85,7 +85,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [S
 * Z-Wave
 ### Add-ons
 * deCONZ
-* [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup "Hass.io Google Drive Backup Add-on")
+* [Hass.io Google Drive Backup](https://github.com/sabeechen/hassio-google-drive-backup "Hass.io Google Drive Backup Add-on"). **Must have!**
 * MariaDB
 * phpMyAdmin
 * Samba share
