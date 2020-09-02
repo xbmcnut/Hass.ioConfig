@@ -7,7 +7,7 @@ My Home Assistant installation now resides on an [Intel NUC i5](https://amzn.to/
 
 My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my [Synology NAS](https://amzn.to/34Swp4I) in a docker container along with a few other IoT components.
 #### Gadgets
-* 9 x [Shelly](https://amzn.to/3jwq2ba)1
+* 9 x [Shelly](https://amzn.to/3jwq2ba)1 (one integrated into mains powered outdoor PIR). Video [**here**](https://www.youtube.com/watch?v=M1o80liNrhs)
 * 5 x Shelly PM1
 * 1 x Shelly 2.5
 * 2 x Shelly Dimmer
