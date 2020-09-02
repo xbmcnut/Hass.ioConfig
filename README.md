@@ -29,6 +29,7 @@ My [MQTT Broker](https://hub.docker.com/_/eclipse-mosquitto) is running on my Sy
 * 1 x Aeon Labs Z-Wave stick
 * 2 x Aeon Labs MultiSensor 6
 * 5 x Z-Wave in-wall switch modules
+* 1 x [Yale Security Assure Lock with Z-Wave](https://amzn.to/2YVRDe1)
 * 1 x Harmony Hub
 * 1 x Samsung Galaxy Tab A 10.1 running Fully Kiosk Browser. Video on that [**here**](https://www.youtube.com/watch?v=sv67ovOhjzQ).
 
